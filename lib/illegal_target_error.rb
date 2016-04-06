@@ -1,0 +1,4 @@
+class IllegalTargetError < RuntimeError
+
+
+end
